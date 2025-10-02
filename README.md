@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I’m Anthony
 
-<!--
-**AnthonyJS-code/AnthonyJS-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Backend Developer** focused on building scalable and practical applications with **Node.js, Express.js, and databases**.
+🚀 Currently exploring real-time systems, AI integrations, and API design.
+🎯 Open to **Internship opportunities** to grow my skills and contribute to real-world projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+* Languages:JavaScript (Node.js), Python
+* Frameworks & Tools:Express.js, Socket.io, REST APIs
+* Databases:MongoDB,SQL
+*Other:Git/GitHub, Docker (beginner)
+
+---
+
+### 📌 Featured Projects
+
+*Real-Time Chat App – WebSocket-powered chat system with MongoDB persistence
+AI Moderation System – API that filters flagged content using AI +
+* URL Shortener – Generates unique links.
+*.Blogging Platform
+* Expense Tracker– Track and categorize expenses
+
+---
+
+### 🌱 What I’m Working On
+Building an AI-powered moderation system
+Strengthening skills in scalable backend architecture
+Preparing for internship opportunities
+
